@@ -1,3 +1,4 @@
+#中文分句
 import re
 fil=open('y2test.txt',encoding='utf-8')#打开的文件名为y2.text.txt,与xtry.py在同一个目录下
 para1=fil.read()
